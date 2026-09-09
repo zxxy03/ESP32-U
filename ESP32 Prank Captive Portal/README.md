@@ -39,8 +39,8 @@ Agar gambar dapat dimuat secara offline tanpa internet dan tidak memberatkan mem
 ---
 
 ## 🚀 Cara Penggunaan
-1. Buka file `.ino` di Arduino IDE / ArduinoDroid.
-2. Tempelkan string Data URI hasil konversi ke dalam tag `src="..."` di bagian kodenya.
+1. Buka file `.ino` di Arduino IDE.
+2.Tempelkan string Data URI hasil konversi ke dalam tag `src="..."` di bagian kodenya.
 3. *Compile* dan *Upload* ke board ESP32 kamu.
 4. Hubungkan HP lain ke SSID **"Free Wifi Lah"**.
 5. Halaman *captive portal* akan otomatis muncul!
