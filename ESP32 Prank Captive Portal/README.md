@@ -2,6 +2,7 @@
 
 Proyek **Prank Captive Portal** berbasis ESP32. Ketika pengguna terhubung ke jaringan Wi-Fi, portal otomatis akan terbuka (*Captive Portal*) menampilkan halaman interaktif dengan tombol unik dan gambar meme offline (Base64).
 ![foto](UI.jpg)
+![foto](MEME.jpg) 
 
 ---
 
